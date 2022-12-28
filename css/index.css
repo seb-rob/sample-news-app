@@ -1,0 +1,129 @@
+
+.logo-box{
+    width: 27px;
+    height: 9px;
+    left: 1px;
+    top: 10px;
+    background: linear-gradient(96.34deg, #E537B9 0%, #C040DF 100%);
+    border-radius: 4.5px;
+}
+
+.logo-text{
+    width: 211px;
+    height: 24px;
+    left: 0px;
+    top: 22px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 24px;
+    /* identical to box height, or 104% */
+    letter-spacing: 2px;
+    /* Text/text-gray-dark */
+    color: #292B2E;
+    text-transform: capitalize;
+}
+
+.header{
+    width: 74px;
+    height: 32px;
+    left: 116px;
+    top: 123px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    color: #252B42;
+    text-transform: capitalize;
+    margin-top: 5%;
+}
+.sub-heading{
+    width: 331px;
+    height: 28px;
+    left: 116px;
+    top: 165px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* identical to box height, or 156% */
+    color: #858585;
+    margin-top: 0.5%;
+}
+
+.carousel-head{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    /* identical to box height, or 133% */
+
+    letter-spacing: 0.1px;
+
+    /* Text/text-gray-dark */
+
+    color: #292B2E;
+}
+
+.carousel-name{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 28px;
+    /* identical to box height, or 215% */
+    
+    letter-spacing: 0.2px;
+    
+    /* Text/text-gray */
+    
+    color: #586069;
+    display: inline-block;
+}
+
+.dot{
+    display: inline-block;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: #586069;
+    margin-left: 15px;
+}
+
+.descrip{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    
+    letter-spacing: 0.2px;
+    
+    /* Text/text-gray-dark */
+    
+    color: #292B2E;
+}
+
+.date{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+letter-spacing: 0.2px;
+
+/* Text/text-gray */
+display: inline-block;
+color: #586069;
+margin-left: 10px;
+}
+/* .cent{
+    margin: auto;
+} */
